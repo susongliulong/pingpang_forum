@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.sun.mapper.AdminMapper">
+
+    <select id="findAll" resultType="com.sun.entity.Admin">
+        select * from admin;
+    </select>
+
+    <select id="findByTelOrNameOrEmail" parameterType="java.lang.String" resultType="com.sun.entity.Admin">
+
+        select * from admin where name=#{username} or telephone=#{username} or email=#{username};
+    </select>
+
+</mapper>

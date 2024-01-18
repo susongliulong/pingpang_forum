@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e20785e3-a924-4c39-aed2-66553fb8446d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/album.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/admin/cover/38f7ea23-71e9-4fa2-b63a-f5e018b50efc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/admin/cover/ab590ae2-bd65-4903-b931-e62228e8a912.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/admin/test/7fa25aff-bf79-418e-a378-f39906a0811d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/admin/test/80964402-51eb-40e2-abe8-ef60c3123ed4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/admin/test/9848aa4c-50c5-4b19-b297-383db48a9d18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/admin/test/c6260d2c-ae9c-49fd-a4e7-414b966abf2e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/admin/test/dc1bff3f-62e6-4bb2-b6e2-2bbeb276fef3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/admin/广州/49df6bf3-663a-4b08-a26d-2ad8f4ab5132.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/admin/广州/518a526a-dc66-4003-9913-55b002b430a6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/admin/广州/91b5dcbc-86d4-46d2-a921-c5a2bf5cf2f6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/admin/广州/c08dbc3e-2841-4355-8494-39998c758dce.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/admin/广州/c4ab361b-0f38-4f3c-a5b4-03b0489996d1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/test/cover/80b1b3f6-2d04-4f78-b634-214a048d8938.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/test/cover/ec91afdd-51a0-401c-b00a-fb6705be7918.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/test/test的相册/3cde5532-dbea-4930-a3cb-aee6bb18295c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/test/test的相册/78b9f717-6169-4132-a5e8-a03157ec3ef4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/test/test的相册/b6728a0c-d03c-44b4-a256-f0ceed0d69db.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/test/test的相册/eff469fc-3bfc-4f3b-bf72-bad7a4687115.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/AlbumApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/common/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/config/CorsFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/config/DateConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/config/DateConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/config/MPGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/config/MultipartResolverConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/controller/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/controller/AlbumController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/controller/PhotographController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/entity/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/entity/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/entity/Photograph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/entity/dto/AlbumKeyWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/entity/vo/AlbumOverview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/entity/vo/AlbumVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/handler/AlbumMetaObjectHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/mapper/AdminMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/mapper/AlbumMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/mapper/PhotographMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/service/IAdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/service/IAlbumService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/service/IPhotographService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/service/impl/AdminServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/service/impl/AlbumServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/service/impl/PhotographServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/util/FileUpUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/util/YamlReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/util/cookie/CookieItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/util/cookie/CookieState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/util/cookie/CookieUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/AdminMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/AlbumMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/PhotographMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sun/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sun/BasicJavaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/album.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sun/AlbumApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sun/common/R$RHttpStatusEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sun/common/R.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sun/config/CorsFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sun/config/DateConfig$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sun/config/DateConfig$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sun/config/DateConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sun/config/DateConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sun/config/MPGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sun/config/MultipartResolverConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sun/controller/AdminController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sun/controller/AlbumController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sun/controller/PhotographController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sun/entity/Admin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sun/entity/Album.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sun/entity/Photograph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sun/entity/dto/AlbumKeyWord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sun/entity/vo/AlbumOverview.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sun/entity/vo/AlbumVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sun/handler/AlbumMetaObjectHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sun/mapper/AdminMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sun/mapper/AlbumMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sun/mapper/PhotographMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sun/service/IAdminService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sun/service/IAlbumService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sun/service/IPhotographService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sun/service/impl/AdminServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sun/service/impl/AlbumServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sun/service/impl/PhotographServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sun/util/FileUpUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sun/util/YamlReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/AdminMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/AlbumMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/PhotographMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/sun/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/sun/BasicJavaTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\maven_repository\repository" />
+        <option name="mavenHome" value="F:/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2ao98NWg4v61lmcdNgrU0M4oD0w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="F:/maven_repository/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.41/tomcat-embed-core-9.0.41.jar!/" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\13.software_exercise\huangtao\album\src\main\java\com\sun\config" />
+      <recent name="D:\13.software_exercise\huangtao\album\src\main\java\com\sun" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\13.software_exercise\huangtao\album\imgs" />
+      <recent name="D:\13.software_exercise\huangtao\album\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AlbumApplication">
+    <configuration name="generated-requests#2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="AppTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="album" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sun" />
+      <option name="MAIN_CLASS_NAME" value="com.sun.AppTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.testFindNamesByAlbumId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="album" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sun" />
+      <option name="MAIN_CLASS_NAME" value="com.sun.AppTest" />
+      <option name="METHOD_NAME" value="testFindNamesByAlbumId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicJavaTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="album" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sun" />
+      <option name="MAIN_CLASS_NAME" value="com.sun.BasicJavaTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlbumApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="album" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sun.AlbumApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.AlbumApplication" />
+        <item itemvalue="HTTP Request.generated-requests#2" />
+        <item itemvalue="JUnit.BasicJavaTest.test" />
+        <item itemvalue="JUnit.AppTest.testFindNamesByAlbumId" />
+        <item itemvalue="JUnit.AppTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e20785e3-a924-4c39-aed2-66553fb8446d" name="Default Changelist" comment="" />
+      <created>1704973904993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704973904993</updated>
+      <workItem from="1704973911099" duration="35304000" />
+      <workItem from="1705285282879" duration="26648000" />
+      <workItem from="1705453816337" duration="17805000" />
+      <workItem from="1705553628985" duration="6789000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1705130465904">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1705130465904" />
+    <state x="360" y="141" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1705392489326">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="360" y="141" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1705392489326" />
+    <state x="446" y="46" key="#com.intellij.ide.util.MemberChooser" timestamp="1705494162681">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="46" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1705494162681" />
+    <state x="420" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1704974259134">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="420" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1704974259134" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1705560655428">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1705560655428" />
+    <state width="1237" height="206" key="GridCell.Tab.0.bottom" timestamp="1705497301137">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="206" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1705497301137" />
+    <state width="1237" height="206" key="GridCell.Tab.0.center" timestamp="1705497301137">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="206" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1705497301137" />
+    <state width="1237" height="206" key="GridCell.Tab.0.left" timestamp="1705497301137">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="206" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1705497301137" />
+    <state width="1237" height="206" key="GridCell.Tab.0.right" timestamp="1705497301137">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="206" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1705497301137" />
+    <state width="1237" height="206" key="GridCell.Tab.1.bottom" timestamp="1705497301137">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="206" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1705497301137" />
+    <state width="1237" height="206" key="GridCell.Tab.1.center" timestamp="1705497301137">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="206" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1705497301137" />
+    <state width="1237" height="206" key="GridCell.Tab.1.left" timestamp="1705497301137">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="206" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1705497301137" />
+    <state width="1237" height="206" key="GridCell.Tab.1.right" timestamp="1705497301137">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="206" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1705497301137" />
+    <state width="1237" height="206" key="GridCell.Tab.2.bottom" timestamp="1705497301137">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="206" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1705497301137" />
+    <state width="1237" height="206" key="GridCell.Tab.2.center" timestamp="1705497301137">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="206" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1705497301137" />
+    <state width="1237" height="206" key="GridCell.Tab.2.left" timestamp="1705497301137">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="206" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1705497301137" />
+    <state width="1237" height="206" key="GridCell.Tab.2.right" timestamp="1705497301137">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="206" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1705497301137" />
+    <state x="221" y="75" key="IDE.errors.dialog" timestamp="1705234280682">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="221" y="75" key="IDE.errors.dialog/0.0.1280.680@0.0.1280.680" timestamp="1705234280681" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1705217628064">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1705217628064" />
+    <state x="417" y="97" key="refactoring.ChangeSignatureDialog" timestamp="1705306604835">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="417" y="97" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1705306604835" />
+  </component>
+</project>

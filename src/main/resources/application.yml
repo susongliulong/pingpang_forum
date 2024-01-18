@@ -1,0 +1,18 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: "1234"
+    url: jdbc:mysql://localhost:3306/album?serverTimezone=UTC&useUnicode=true&characterEncoding=utf-8
+server:
+  port: 8888
+
+mp:
+  outputDir: D:\13.software_exercise\huangtao\album\src\main\java
+
+# 只输出com.sun.util包下的error日志
+logging:
+  level:
+    com.sun.util: debug
+
+

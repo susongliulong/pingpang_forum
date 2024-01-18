@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.sun.mapper.PhotographMapper">
+
+    <select id="findNamesByAlbumId" parameterType="java.lang.Long" resultType="java.lang.String">
+        select name from photograph where album_id=#{#id};
+    </select>
+
+    <delete id="deleteByAlbumId" parameterType="java.lang.Long">
+        delete  from photograph where album_id=#{id}
+    </delete>
+
+    <select id="countByUser" parameterType="java.lang.Long" resultType="java.lang.Integer">
+        SELECT COUNT(*) FROM photograph
+        WHERE album_id
+        IN
+        (
+        SELECT id FROM album
+        WHERE admin_id =#{adminId}
+        );
+    </select>
+</mapper>
